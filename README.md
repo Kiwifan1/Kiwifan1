@@ -1,5 +1,8 @@
 # 💫 About Me:
-<br>I've always loved programming.  Whether it be fixing a bug, solving a problem, or collaborating with others on a project.  The learning process of learning is incredibly addicting, and I hope to continue learning more.
+🔭 I’m currently working on a 3D model cataloguing software<br/>
+🌱 I’m currently learning MYSQL, Node.js, and Assembly<br/>
+💬 Ask me about my 'Enigma' Program<br/>
+⚡ Fun fact: I love solving rubik's cubes<br/>
 
 
 ## 🌐 Socials:

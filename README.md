@@ -2,7 +2,7 @@
 🔭 I’m currently working on a 3D model cataloguing software<br/>
 🌱 I’m currently learning MYSQL, Node.js, and Assembly<br/>
 💬 Ask me about my 'Enigma' Program<br/>
-⚡ Fun fact: I love solving rubik's cubes<br/>
+⚡ Fun fact: I love solving Rubik's cubes<br/>
 
 
 ## 🌐 Socials:

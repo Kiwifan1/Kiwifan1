@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on a 3D model cataloguing software<br/>
-🌱 I’m currently learning MYSQL, Node.js, and Assembly<br/>
+🔭 I'm currently working on my website ![Here](https://kiwifan1.me)<br/>
+🌱 I’m currently learning MYSQL, and C#<br/>
 💬 Ask me about my 'Enigma' Program<br/>
 ⚡ Fun fact: I love solving Rubik's cubes<br/>
 

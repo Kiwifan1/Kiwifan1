@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I'm currently working on my website [here](https://kiwifan1.me)<br/>
-🌱 I’m currently learning MYSQL, and C#<br/>
+🔭 I'm currently working on my website [here](https://kiwifan1.me), and a VSCode Extension!<br/>
+🌱 I’m currently learning Cryptography, and Cybersecurity<br/>
 💬 Ask me about my 'Enigma' Program<br/>
 ⚡ Fun fact: I love solving Rubik's cubes<br/>
 

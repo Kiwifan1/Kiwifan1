@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a website to help catalogue 3D Models
+🔭 I'm currently working on a website to help catalogue 3D Models<br/>
 🌱 I’m currently learning Angular 19<br/>
 💬 Ask me about my 'Enigma' Program<br/>
 ⚡ Fun fact: I love solving Rubik's cubes<br/>

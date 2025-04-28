@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I'm currently working on a website to help college students find scholarships!  
-🌱 I’m currently learning Cryptography, and Cybersecurity<br/>
+🔭 I'm currently working on a website to help catalogue 3D Models
+🌱 I’m currently learning Angular 19<br/>
 💬 Ask me about my 'Enigma' Program<br/>
 ⚡ Fun fact: I love solving Rubik's cubes<br/>
 
